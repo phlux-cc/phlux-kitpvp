@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "phlux-kitpvp",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "edf786dd-f721-43fe-a46a-e94851a58ee7",
+			"database_name": "phlux-kitpvp-db"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
